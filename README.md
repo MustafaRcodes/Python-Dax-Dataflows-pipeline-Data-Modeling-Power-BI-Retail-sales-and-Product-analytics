@@ -1,4 +1,4 @@
-# Python-Dax-Dataflows-pipeline-Data-Modeling-Power-BI-Retail-sales-and-Product-analytics
+# Python-Dax-Dataflows-pipeline-Data-Modeling-Power-BI-Retail-Sales-and-Product-analytics
 Python, Dax, Dataflows pipeline, Data Modeling, Power BI Desktop and Service, Retail sales and Product analytics
 
 Live Dashboard link : https://app.powerbi.com/view?r=eyJrIjoiMjcxNWU4MTQtOGE3YS00MDhjLTkzNDYtNzg3MTYyMjMxNDExIiwidCI6IjUyZWY0YTFlLWE0MjQtNDUyZC05NDcwLTZkYTljN2M3OTJiMSJ9
@@ -25,3 +25,13 @@ Insights and Recommendations:
 •	According to the current trend, the product sourcing strategy and product cost are working in favor of the business because profit margins are good, and the company is not burning cash. The cost of buying products and the pricing strategy are effective, and the company should continue with this strategy.
 
 •	The company should introduce a few strategies to acquire and retain customers, such as implementing a points card for customer loyalty and offering discounted products to repeat customers. 
+
+<img width="742" alt="image" src="https://github.com/user-attachments/assets/7ee4ff8d-0e18-45d4-85f8-e0463aca903e">
+<img width="743" alt="image" src="https://github.com/user-attachments/assets/0da0636d-360b-45a2-aef6-f48a77292ac1">
+<img width="745" alt="image" src="https://github.com/user-attachments/assets/d724b5e9-dded-40de-9226-373181852f96">
+<img width="744" alt="image" src="https://github.com/user-attachments/assets/2253533a-b184-4500-b9ee-4a4f6ecaf71e">
+<img width="574" alt="image" src="https://github.com/user-attachments/assets/a197609e-50b2-44fd-be1a-fc1858a9519c">
+
+
+
+
