@@ -9,6 +9,7 @@ Objective:
 The objective of this project is to analyze sales trends by category, subcategory, product, region, and customer demographics to identify gaps and address them to boost revenue. 
 
 Insights and Recommendations:
+
 •	Year over year, revenue has increased and crossed the $1 million threshold in 2021, and it is set to cross $2 million in 2022.
 
 •	The top-selling product in terms of order quantity is water bottles; however, the most revenue-generating products are mountain and road bikes, with 95% of revenue coming from bikes.
